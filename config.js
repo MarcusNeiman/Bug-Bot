@@ -17,25 +17,25 @@ global.APIKeys = {
 }
 
 
-global.ownername = '@⁨«{>𝕩Elbarto Senpai <}»⁩'
+global.ownername = 'The Seeker⁩'
 global.autorecording = false //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 // Other
-global.owner = ['2349159807687']
+global.owner = ['254725693306']
 global.premium = ['2349159807687']
 global.packname = 'The barto bot'
-global.author = 'WhatsApp Bot'
+global.author = 'Neiman Marcus'
 global.wlcm = []
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🚬','🗿']
 global.sp = '⭔'
 global.mess = {
     success: '✓Done sir!',
-    admin: 'you are not an admin of this group!',
-    botAdmin: 'you are not my owner so shussh cause this can be used by my owner only!',
-    owner: 'This command is not for someone for you',
-    group: 'Features can only be used in group, BAKA!',
+    admin: 'Marcus should be admin',
+    botAdmin: 'Sorry but only Marcus can use this command',
+    owner: 'This command is not for someone like you',
+    group: 'Features can only be used in group sir',
     private: 'Check Private Chat!',
     bot: 'Special features of numbers users Bot',
     wait: 'Loading almost done ay!...',
