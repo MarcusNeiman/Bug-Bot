@@ -17,12 +17,12 @@ global.APIKeys = {
 }
 
 
-global.ownername = '@⁨«{>𝕩Elbarto Senpai <}»⁩'
+global.ownername = 'NEIMAN MARCUS⁩'
 global.autorecording = false //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 // Other
-global.owner = ['2349159807687']
+global.owner = ['254725693306']
 global.premium = ['2349159807687']
 global.packname = 'The barto bot'
 global.author = 'WhatsApp Bot'
